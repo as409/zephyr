@@ -13,3 +13,5 @@ Instead of using the NLTK tokenizer I have used the tokenizer built by Brendan O
 
 ![result_twython](https://user-images.githubusercontent.com/17767383/28996969-14ef41a2-7a28-11e7-976d-a9dbf116ccfc.png)
 
+THe above results were obtained for search query - "Narendra Modi"
+
