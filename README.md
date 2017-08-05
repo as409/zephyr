@@ -15,3 +15,4 @@ Instead of using the NLTK tokenizer I have used the tokenizer built by Brendan O
 
 The above results were obtained for search query - "Narendra Modi"
 
+Detailed link to the project : https://docs.google.com/document/d/1nuLOByJBWt3DFOrH9VpNDr8MGH1ttteYc-1xItww57A/edit?usp=sharing
